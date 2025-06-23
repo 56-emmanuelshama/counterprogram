@@ -1,0 +1,24 @@
+.counterlabel {
+    text-align: center;
+    font-size: 8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    
+}
+body{
+    align-items: center;
+}
+.counter{
+    text-align: center;
+}
+.counter button {
+    font-size: 3rem;
+    background-color: hsl(244, 50%, 44%);
+    color: antiquewhite;
+    cursor: pointer;
+
+}
+.counter button :hover{
+    background-color: hsl(244, 83%, 43%);
+
+}
